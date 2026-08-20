@@ -1,0 +1,27 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Templates",
+  "templates_pairs": [
+    ["", ""]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_folder_templates": true,
+  "folder_templates": [
+    { "folder": "Calendar/Daily", "template": "Templates/Daily Note.md" },
+    { "folder": "Calendar/Weekly", "template": "Templates/Weekly Note.md" },
+    { "folder": "Calendar/Monthly", "template": "Templates/Monthly Note.md" },
+    { "folder": "Calendar/Yearly", "template": "Templates/Yearly Note.md" },
+    { "folder": "Meetings", "template": "Templates/Meeting Note.md" },
+    { "folder": "Notes", "template": "Templates/Note.md" }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [],
+  "startup_templates": [],
+  "user_scripts_folder": "",
+  "enable_system_commands": false,
+  "shell_path": ""
+}

@@ -1,0 +1,8 @@
+{
+  "enableJavaScriptQueries": true,
+  "enableInlineDataviewJs": true,
+  "enableDataviewJs": true,
+  "refreshEnabled": true,
+  "refreshInterval": 2500,
+  "warnOnEmptyResult": false
+}

@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "value": "Home",
+  "kind": "file",
+  "openMode": "replaceAll",
+  "openOnStartup": true,
+  "reopenWhenClosed": false,
+  "manualOpenMode": "replaceAll",
+  "view": "default",
+  "revertView": true,
+  "openWhenEmpty": false,
+  "commands": [],
+  "autoCreate": false,
+  "autoScroll": false,
+  "pin": false,
+  "hasRibbonIcon": false,
+  "refreshDataview": true,
+  "workspace": "",
+  "workspaceEnabled": false
+}
